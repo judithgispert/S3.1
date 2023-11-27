@@ -26,5 +26,4 @@ public class Bike extends VehicleAbstract{
 			System.out.println("The bike is braking " + speedBrake + "Km/h. The speed now is " + super.getSpeed() + "Km/h.");
 		}
 	}
-
 }
