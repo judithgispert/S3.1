@@ -16,5 +16,4 @@ public class Accelerate implements InterfaceCommand{
 	public void execute() {
 		vehicle.accelerate(speedAccelerate);
 	}
-
 }
